@@ -1,7 +1,6 @@
 # How to collaborate
 
-##### Table of Contents  
-- [Commit message](#Commit message)
+[Commit message](#Commit%201%20message)
 
 # Commit message
 ## Format 
