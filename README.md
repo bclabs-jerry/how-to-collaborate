@@ -5,6 +5,7 @@
   - [Format](#Format)
   - [Type](#Type)
   - [Subject](#Subject)
+  - [Example](#Example)
   - [Example](#Example-1)
 
 # Commit message
