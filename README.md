@@ -2,7 +2,7 @@
 
 #### Table of Content
 - [Commit message](#Commit%201%20message)
- *  [Format](#Format)
+  - [Format](#Format)
 
 # Commit message
 ## Format 
