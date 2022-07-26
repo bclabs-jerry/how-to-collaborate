@@ -1,7 +1,7 @@
 # How to collaborate
 
 # Commit message
-- Format 
+## Format 
 ```
 ISSUE-123 {type}: {subject}
 
@@ -11,7 +11,7 @@ ISSUE-123 {type}: {subject}
 ```
 
 
-- Type
+## Type
 ```
 feat    : New feature
 fix     : Bug fix
@@ -22,21 +22,20 @@ test    : Adding test code, test code refactoring
 chore   : Editing build script, package manager, etc..
 ```
 
-
-- Subject
+## Subject
 ```
 The length of a subject should be less than 50 (recommended)
 ```
 
 
-- Footer
+## Footer
 ```
 Resolves: The issue id that this commit fixes
 See also: Related issues
 ... etc
 ```
 
-- Example
+## Example
 ```
 feat: Summarize changes in around 50 characters or less
 
