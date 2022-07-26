@@ -5,7 +5,7 @@
   - [Format](#Format)
   - [Type](#Type)
   - [Subject](#Subject)
-  - [Example](#Commit%201%20message#Example)
+  - [Example](#Example-1)
 
 # Commit message
 ## Format 
@@ -72,3 +72,5 @@ like this:
 Resolves: ISSUE-13
 See also: ISSUE-123, ISSUE-91
 ```
+
+## Example
