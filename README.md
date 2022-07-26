@@ -3,6 +3,9 @@
 #### Table of Content
 - [Commit message](#Commit%201%20message)
   - [Format](#Format)
+  - [Type](#Type)
+  - [Subject](#Subject)
+  - [Example](#Commit%201%20message#Example)
 
 # Commit message
 ## Format 
