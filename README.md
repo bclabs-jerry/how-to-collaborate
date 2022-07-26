@@ -1,5 +1,8 @@
 # How to collaborate
 
+##### Table of Contents  
+- [Commit message](#Commit message)
+
 # Commit message
 ## Format 
 ```
